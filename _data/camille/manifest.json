@@ -23,6 +23,24 @@
         "id": "https://f-alexa10.github.io/workshop/camille/canvas-1/canvas",
         "type": "Canvas",
         "duration": 4170.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://f-alexa10.github.io/workshop/annotations/camille-canvas-1-movie.json",
+            "label": {
+              "none": ["Movie"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://f-alexa10.github.io/workshop/annotations/camille-canvas-1-credits.json",
+            "label": {
+              "none": ["Credits"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://f-alexa10.github.io/workshop/camille/canvas-1/paintings",
